@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '6279'
     url: http://www.gutenberg.org/2009/agents/6279
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37972#Sunshine-Jane
 gutenberg_issued: '2011-11-10'
 gutenberg_type: Text
 identifiers:
